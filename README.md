@@ -23,7 +23,7 @@ Atualmente estou estudando diferentes tecnologias.
 
 <br/>
 
-## Redes Sociais
+## 👨‍💻 Redes Sociais
 
 <div> 
   <a href="https://www.linkedin.com/in/euclydes-uchoas-4860b7197" target="_blank">
