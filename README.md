@@ -2,7 +2,7 @@
 
 Atualmente estou estudando diferentes tecnologias.
 
-<br>
+<br/>
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -17,8 +17,10 @@ Atualmente estou estudando diferentes tecnologias.
   <img align="center" alt="Euclydes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Euclydes-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Euclydes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--<img align="right" alt="Euclydes-Gif" src="https://terraria.wiki.gg/images/2/27/Animated_Sticker_Lunatic_Cultist.gif">
+  <img align="right" alt="Euclydes-Gif" height="100" width="100" src="https://terraria.wiki.gg/images/2/27/Animated_Sticker_Lunatic_Cultist.gif">
 </div>
+
+<br/>
 
 ## Redes Sociais
 
@@ -28,13 +30,13 @@ Atualmente estou estudando diferentes tecnologias.
   </a> 
 </div>
 
-<br>
+<br/>
 
 <!-- ![EuclydesUchoas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuclydesUchoas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) -->
 
 ## 📊 Estatísticas
 
-<p>
+<div>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EuclydesUchoas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuclydesUchoas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+</div>
