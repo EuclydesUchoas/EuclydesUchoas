@@ -2,8 +2,6 @@
 
 Desenvolvedor **Full-stack Sênior** (5+ anos) especializado em **.NET/C# Backend** e **Angular Frontend**. Criando soluções escaláveis com sólidos conhecimentos de arquitetura e sensibilidade para user experience.
 
-<img align="right" alt="Cultist from Terraria" height="120" width="120" src="https://terraria.wiki.gg/images/2/27/Animated_Sticker_Lunatic_Cultist.gif">
-
 ---
 
 ## 💡 Minhas Especialidades
