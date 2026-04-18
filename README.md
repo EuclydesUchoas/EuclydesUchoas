@@ -98,11 +98,11 @@ Desenvolvedor **Full-stack Sênior** (5+ anos) especializado em **.NET/C# Backen
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=EuclydesUchoas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuclydesUchoas&theme=tokyonight&layout=compact&langs_count=10" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuclydesUchoas&theme=tokyonight&layout=compact&langs_count=10&locale=pt-BR" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuclydesUchoas&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuclydesUchoas&theme=tokyonight&locale=pt-BR" alt="GitHub Streak"/>
 </div>
 
 ---
