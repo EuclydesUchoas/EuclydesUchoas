@@ -83,7 +83,7 @@ Desenvolvedor **Full-stack Sênior** (5+ anos) especializado em **.NET/C# Backen
   <a href="https://www.linkedin.com/in/euclydes-uchoas-4860b7197" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/EuclydesUchoas" target="_blank">
+  <a href="https://github.com/euclydesuchoas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -95,12 +95,12 @@ Desenvolvedor **Full-stack Sênior** (5+ anos) especializado em **.NET/C# Backen
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=EuclydesUchoas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuclydesUchoas&theme=tokyonight&layout=compact&langs_count=10&locale=pt-BR" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=euclydesuchoas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euclydesuchoas&theme=tokyonight&layout=compact&langs_count=10&locale=pt-BR" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuclydesUchoas&theme=tokyonight&locale=pt-BR" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euclydesuchoas&theme=tokyonight&locale=pt-BR" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -108,13 +108,13 @@ Desenvolvedor **Full-stack Sênior** (5+ anos) especializado em **.NET/C# Backen
 ## 🐍 Contribuições
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EuclydesUchoas/EuclydesUchoas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EuclydesUchoas/EuclydesUchoas/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EuclydesUchoas/EuclydesUchoas/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euclydesuchoas/euclydesuchoas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/euclydesuchoas/euclydesuchoas/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/euclydesuchoas/euclydesuchoas/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EuclydesUchoas&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=euclydesuchoas&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
